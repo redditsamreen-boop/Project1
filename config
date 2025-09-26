@@ -1,0 +1,11 @@
+# Account1
+Host github-account1
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/id_rsa_account1
+
+# Account2
+Host github-account2
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/id_rsa_account2
